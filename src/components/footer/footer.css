@@ -1,7 +1,7 @@
 .footer{
     width: 100%;
     padding: 6rem 8rem;
-    background-color: rgba(19, 19, 19 0.8);
+    background-color: rgba(19, 19, 19, 0.8);
 }
 
 .footer-container{
@@ -50,7 +50,7 @@ p{
     font-size: 1.2rem;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 640px){
     .footer-container{
         grid-template-columns: 1fr;
         width: 100%;
