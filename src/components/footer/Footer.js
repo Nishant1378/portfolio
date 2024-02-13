@@ -29,14 +29,13 @@ const Footer = () => {
             </div>
             <div className="right">
                 <h4>Connect with me on </h4>
-                <div className="socail">
-                    <FaLinkedin size={30} style={{color:"#fff", marginRight:"1rem"}} />
-                    <FaGithub size={30} style={{color:"#fff", marginRight:"1rem"}} />
-                    <FaTwitter size={30} style={{color:"#fff", marginRight:"1rem"}} />
-                    <FaDiscord size={30} style={{color:"#fff", marginRight:"1rem"}} />
-                    <FaInstagram size={30} style={{color:"#fff", marginRight:"1rem"}} />
+                <div className="social">
+                    <a href="https://www.linkedin.com/in/nishant-pawar"><FaLinkedin size={30} style={{color:"#fff", marginRight:"1rem"}} /></a>
+                    <a href="https://github.com/Nishant1378"><FaGithub size={30} style={{color:"#fff", marginRight:"1rem"}} /></a>
+                    <a href="https://twitter.com/Nishant137807"><FaTwitter size={30} style={{color:"#fff", marginRight:"1rem"}} /></a>
+                    {/* <a href="https://discord.com/"><FaDiscord size={30} style={{color:"#fff", marginRight:"1rem"}} /></a> */}
+                    <a href="https://www.instagram.com/devil_king_1378"><FaInstagram size={30} style={{color:"#fff", marginRight:"1rem"}} /></a>
                 </div>
-                
             </div>
         </div>
       
