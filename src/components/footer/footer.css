@@ -37,6 +37,10 @@
     padding: 1rem;
 }
 
+.mail{
+    cursor: pointer;
+}
+
 .social{
     margin-top: 1rem;
 }

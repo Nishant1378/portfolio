@@ -19,7 +19,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro3,
-        title: "To Do List",
+        title: "Task List",
         text: "This is a text",
         view: "https://nishant1378.github.io/OCTANET/To%20Do%20List",
         source: "https://github.com/Nishant1378/OCTANET.git"
